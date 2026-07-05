@@ -1,0 +1,65 @@
+[
+  {
+    "id": "conta1",
+    "name": "Conta 1",
+    "price": 5.0,
+    "supplier_price": 2.00,
+    "category": "❌ Logins SEM acesso E-mail"
+  },
+  {
+    "id": "conta2",
+    "name": "Conta 2",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "📩 Logins COM acesso E-mail"
+  },
+  {
+    "id": "conta3",
+    "name": "Conta 3",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "❌ Logins SEM acesso E-mail"
+  },
+    {
+    "id": "conta4",
+    "name": "Conta 4",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "📩 Logins COM acesso E-mail"
+  },
+    {
+    "id": "conta5",
+    "name": "Conta 5",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "❌ Logins SEM acesso E-mail"
+  },
+    {
+    "id": "conta6",
+    "name": "Conta 6",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "📩 Logins COM acesso E-mail"
+  },
+    {
+    "id": "conta7",
+    "name": "Conta 7",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "❌ Logins SEM acesso E-mail"
+  },
+    {
+    "id": "conta8",
+    "name": "Conta 8",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "📩 Logins COM acesso E-mail"
+  },
+    {
+    "id": "conta9",
+    "name": "Conta 9",
+    "price": 5.00,
+    "supplier_price": 2.00,
+    "category": "❌ Logins SEM acesso E-mail"
+  }
+]
